@@ -1,0 +1,2 @@
+﻿pos,corr_resp,thisN,thisTrialN,thisRepN,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,trial.started,fixation.started,line1.started,line2.started,line3.started,line4.started,fixation.stopped,probe.started,key_resp.started,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+-50,x,0,0,0,0,0,0,0,0.012806099999579601,,0.009890300003462471,0.012806099999579601,1.007373300002655,1.007373300002655,1.007373300002655,1.007373300002655,1.023755500005791,2.006396800003131,2.006396800003131,,,,,,,,
